@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica;
+}
+
+header {
+  color: white;
+  width: 100vw;
+  height: 595px;
+  background-image: url("https://github.com/snkelly/LS-Assignment-2/blob/master/img/space-bg.jpg?raw=true");
+  background-position: center;
+}
+
+.menu {
+  padding: 20px;
+  font-weight: bold;
+
+}
+
+.menu a {
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+  hover-color: grey
+}
+
+.Home {
+  display: inline;
+  margin-right: 55%;
+}
+
+.title {
+  text-align: left;
+  margin-top: 4%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 2%;
+}
+
+.title h1 {
+  font-size: 400%;
+}
+
+.title h2 {
+  font-size: 200%;
+  margin-top: 1%;
+}
+
+.title h3 {
+  font-style: italic;
+  margin-top: 4%;
+  font-weight: normal;
+}
+
+main {
+  margin: 5% 20%
+}
+
+p {
+  margin: 5%
+}
+
+blockquote {
+  font-family: times new roman;
+  font-style: italic;
+  font-size: 20px;
+  margin: 50px;
+  padding: 10px;
+  color: grey;
+  border-left: 5px solid #ccc;
+}
+
+.caption {
+  font-style: italic;
+  text-align: center;
+  color: grey;
+  padding: 10px;
+  margin-right: 50px;
+}
+
+.icons {
+  text-align: center;
+  padding: 25px;
+  
+}
+
+.copyright {
+  text-align: center;
+  color: grey;
+  margin: -5px;
+  padding: 20px;
+}
+
+.subtitle {
+  margin: 5%;
+}
+
+a {
+  color: black;
+}
